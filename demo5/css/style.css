@@ -111,8 +111,8 @@ hr {
 	border-radius: 50px;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #00ff15;
-	border-color: #00ff15;
+	background-color: #000000;
+	border-color: #000000;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: rgb(255, 0, 0);
@@ -123,7 +123,7 @@ hr {
 .btn-custom {
 	text-transform: uppercase;
 	color: #ff0000;
-	background-color: #00ff15;
+	background-color: #000000;
 	border: 30px;
 	padding: 28px 40px;
 	margin: 0;
@@ -134,12 +134,12 @@ hr {
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #2f00ff;
-	background-color: #00ff15;
+	background-color: #000000;
 }
 .btn-default {
 	text-transform: uppercase;
 	color: #000000;
-	background-color: #00ff15;
+	background-color: #000000;
 	border: 20px;
 	padding: 14px 20px;
 	margin: 0;
@@ -150,7 +150,7 @@ hr {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #000000;
-	background-color: #00ff15;
+	background-color: #000000;
 }
 /* Header Section */
 .intro {
@@ -159,7 +159,7 @@ hr {
 	padding: 0;
 	text-align: left;
 	background: url(../img/head.jpg) no-repeat center bottom;
-	background-color: #00ff00;
+	background-color: #000000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -191,10 +191,10 @@ header .intro-text {
 #about {
 	padding: 120px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
-	background: rgb(234, 0, 255); /* Old browsers */
-	background: -moz-linear-gradient(top, rgb(255, 0, 255) 0%, rgb(183, 0, 255) 0%, rgb(153, 0, 255) 0%, rgb(212, 0, 255) 0%, rgb(225, 0, 255) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgb(195, 0, 255) 0%, rgb(195, 0, 255) 0%, rgb(174, 0, 255) 0%, rgb(225, 0, 255) 0%, rgb(234, 0, 255) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgb(225, 0, 255) 0%, rgb(200, 0, 250) 0%, rgb(195, 0, 255) 0%, rgb(183, 0, 255) 0%, rgb(204, 0, 255) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(163, 136, 136); /* Old browsers */
+	background: -moz-linear-gradient(top, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(rgb(163, 136, 136) rgb(rgb(163, 136, 136) rgb(163, 136, 136) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(163, 136, 136 0%, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(rgb(163, 136, 136) rgb(rgb(163, 136, 1360, 0, 0) rgb(rgb(163, 136, 136)%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
 }
 #about .about-text {
@@ -211,10 +211,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 #portfolio {
 	padding: 120px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,71777d+0,414a52+100 */
-	background: rgb(234, 0, 255); /* Old browsers */
-	background: -moz-linear-gradient(top, rgb(255, 0, 255) 0%, rgb(183, 0, 255) 0%, rgb(153, 0, 255) 0%, rgb(212, 0, 255) 0%, rgb(225, 0, 255) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgb(195, 0, 255) 0%, rgb(195, 0, 255) 0%, rgb(174, 0, 255) 0%, rgb(225, 0, 255) 0%, rgb(234, 0, 255) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgb(225, 0, 255) 0%, rgb(200, 0, 250) 0%, rgb(195, 0, 255) 0%, rgb(183, 0, 255) 0%, rgb(204, 0, 255) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(163, 136, 136); /* Old browsers */
+	background: -moz-linear-gradient(top, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(rgb(163, 136, 136) rgb(rgb(163, 136, 136) rgb(163, 136, 136) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(163, 136, 136 0%, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgb(163, 136, 136) 0%, rgb(163, 136, 136) 0%, rgb(rgb(163, 136, 136) rgb(rgb(163, 136, 1360, 0, 0) rgb(rgb(163, 136, 136)%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
 }
 #portfolio h2 {
@@ -232,7 +232,7 @@ ol.type li {
 	margin-left: 20px;
 }
 ol.type li a {
-	background: #00ff15;
+	background: #000000;
 	color: #ff0000;
 	padding: 12px 24px;
 	text-transform: uppercase;
@@ -372,7 +372,7 @@ label {
 	font-size: 14px;
 	line-height: 1.42857143;
 	color: #222;
-	background-color: rgba(0, 255, 42, 0.8);
+	background-color: rgba(0, 0, 0, 0.8);
 	background-image: none;
 	border: 20px dotted;
 	border-radius: 0;
