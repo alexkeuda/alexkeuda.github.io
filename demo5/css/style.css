@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Times New Roman', Times, serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #000000;
@@ -362,7 +362,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 label {
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Comic Sans', sans-serif;
+	font-family: 'Times New Roman', Times, serif;
 	float: left;
 }
 #contact .form-control {
